@@ -1,14 +1,14 @@
-###🤙What's up
+### 🤙What's up
 ---
 Student of Informatics department on **Sepuluh Nopember Institute of Technology**. I used to create math videos using simple tools. Love editing both photos and videos. New to C, C++, Python, JavaScript. Actually my favourite subject is calculus😁.
 
-###🙆About me
+### 🙆About me
 ---
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently new to programming
-- 📫 [!Contact:Arda](ardanatha04@gmail.com)
+- 📫 Contact me from: [gmail](ardanatha04@gmail.com)
 
-###💻More
+### 💻More
 [!codewars](https://www.codewars.com/users/hihanghoeng33/badges/small)
 
 
