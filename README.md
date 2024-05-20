@@ -4,12 +4,13 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 
 ###🙆About me
 ---
-👀 I’m interested in web and mobile app development
-🌱 I’m currently new to programming
-📫 [!Contact:Arda](ardanatha04@gmail.com)
+- 👀 I’m interested in web and mobile app development
+- 🌱 I’m currently new to programming
+- 📫 [!Contact:Arda](ardanatha04@gmail.com)
 
 ###💻More
 [!codewars](https://www.codewars.com/users/hihanghoeng33/badges/small)
+
 
 
 
