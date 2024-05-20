@@ -6,7 +6,7 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 ---
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently new to programming
-- 📫 Contact me from: <a href="https://accounts.google.com/SignOutOptions?hl=id&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width=1% height=1%></a><t>**ardanatha04@gmail.com**
+- 📫 Contact me from: <a href="https://accounts.google.com/SignOutOptions?hl=id&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width=4% height=4%></a><t>**ardanatha04@gmail.com**
 
 ### 💻More
 ---
