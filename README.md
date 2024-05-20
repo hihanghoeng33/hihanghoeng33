@@ -10,8 +10,8 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 
 ### 💻More
 ---
-![codewars-profile](https://www.codewars.com/users/hihanghoeng33/badges/large)
-<a href="http://www.youtube.com/@ArdaMathid"><img src="https://yt3.googleusercontent.com/WcYfh5YjrZtl8ipEXs3thkzV4tmwCgNLDHU4g1KhITB0u7mUGw5Of7K5kwigaI4u9LMCp0il=s176-c-k-c0x00ffffff-no-rj" width=10% height=10%></a>
+![codewars-profile](https://www.codewars.com/users/hihanghoeng33/badges/large) <br> <br>
+<a href="http://www.youtube.com/@ArdaMathid"><img src="https://yt3.googleusercontent.com/WcYfh5YjrZtl8ipEXs3thkzV4tmwCgNLDHU4g1KhITB0u7mUGw5Of7K5kwigaI4u9LMCp0il=s176-c-k-c0x00ffffff-no-rj" width=10% height=10%></a><br> <br>
 <a href="https://www.instagram.com/ardanathapr"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width=10% height=10%></a>
 
 
