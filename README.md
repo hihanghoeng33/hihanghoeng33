@@ -10,7 +10,7 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 
 ### 💻More
 ---
-[!codewars-profile](https://www.codewars.com/users/hihanghoeng33/badges/large)
+![codewars-profile](https://www.codewars.com/users/hihanghoeng33/badges/large)
 
 
 
