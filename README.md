@@ -9,7 +9,7 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 - 📫 Contact me from: [gmail](ardanatha04@gmail.com)
 
 ### 💻More
-[!codewars](/Latihan/small.svg/)
+[!codewars](small.svg)
 
 
 
