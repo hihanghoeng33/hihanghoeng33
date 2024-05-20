@@ -11,7 +11,7 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 ### 💻More
 ---
 ![codewars-profile](https://www.codewars.com/users/hihanghoeng33/badges/large)
-![youtube](http://www.youtube.com/@ArdaMathid)
+[![youtube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](http://www.youtube.com/@ArdaMathid)
 
 
 
