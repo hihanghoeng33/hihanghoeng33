@@ -1,6 +1,6 @@
 ### 🤙What's up
 ---
-Student of Informatics department on **Sepuluh Nopember Institute of Technology**. I used to create math videos using simple tools. Love editing both photos and videos. New to C, C++, Python, JavaScript. Actually my favourite subject is calculus😁.
+Student of Informatics department on **Sepuluh Nopember Institute of Technology**. I used to create math videos using simple tools. Love editing both photos and videos. New to C, C++, Python, JavaScript. Always trying to be better🌾.
 
 ### 🙆About me
 ---
