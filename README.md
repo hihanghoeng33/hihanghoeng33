@@ -11,7 +11,9 @@ Student of Informatics department on **Sepuluh Nopember Institute of Technology*
 ### 💻More
 ---
 <h1>Codewars</h1>
+
 ![codewars-profile](https://www.codewars.com/users/hihanghoeng33/badges/large) <br> <br>
+
 <div style="display: flex; margin: 4px;">
   <h1>Instagram</h1>
   <a href="https://www.instagram.com/ardanathapr"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width=10% height=10%></a>
