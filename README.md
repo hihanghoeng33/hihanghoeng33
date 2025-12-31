@@ -1,7 +1,7 @@
 <h1>Hello World 👋, I'm Arda</h1>
-<h3>Undergraduate Student of Informatics department on Sepuluh Nopember Institute of Technology. I used to create math videos using simple tools. Love editing both photos and videos. New to C, C++, Python, JavaScript. Always trying to be better🌾.</h3>
+<h3>Undergraduate Student of Informatics department on Sepuluh Nopember Institute of Technology. I love to do some UI/UX works and interested on cyber security things especially forensics. Always trying to be better🌾.</h3>
 
-- 🌱 I’m currently learning **React.js, Next.js, Laravel, JavaScript, C++, C, Python**
+- 🌱 I’m currently working on Drone Forensics project
 
 - 📫 How to reach me **ptardanathapr@gmail.com**
 
